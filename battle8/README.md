@@ -6,6 +6,8 @@ Take a bunch of small (sub-10B parameter) LLMs and get them to perform
 a series of easy to moderately difficult tasks. Time them, and measure
 success or failure of each model based on their output.
 
+YouTube video: https://www.youtube.com/watch?v=VhocjxL-vpE
+
 ## The contenders
 
 - Ornith 1.5 9B
